@@ -18,3 +18,10 @@
       timeout: 10000,
     },```
 用Workers或Pages上传cf部署
+
+创建kv空间名字随便
+kv环境变量名
+KV_NAMESPACE
+
+定时触发器配置
+crons = ["*/5 * * * *"]  # 每5分钟执行一次自动访问
