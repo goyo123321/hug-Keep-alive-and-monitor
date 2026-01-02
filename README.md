@@ -22,7 +22,9 @@
 复制_worker.js代码用Workers或Pages上传部署
 
 创建kv空间名字随便
+
 kv环境变量名=
+
 KV_NAMESPACE
 
 定时触发器配置
