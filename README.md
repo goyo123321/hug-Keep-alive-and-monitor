@@ -5,7 +5,9 @@
 例如
 首页部分
 
-```{ link: 'https://zzrlqdvm-rnaizspw.hf.space/sub', label: '节点信息', highlight: true },```
+```
+{ link: 'https://zzrlqdvm-rnaizspw.hf.space/sub', label: '节点信息', highlight: true },
+```
 
 自动访问保活部分
 ```{
