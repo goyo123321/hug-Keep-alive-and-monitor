@@ -19,7 +19,7 @@
     },
 ```
 # 用法
-* 复制_worker.js代码用Workers或Pages上传部署
+复制_worker.js代码用Workers或Pages上传部署
 
 创建kv空间名字随便
 
