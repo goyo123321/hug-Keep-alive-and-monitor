@@ -16,8 +16,10 @@
       tooltip: 'My production server monitor',
       statusPageLink: 'https://面板访问地址',
       timeout: 10000,
-    },```
-用Workers或Pages上传cf部署
+    },
+```
+# 用法
+* 用Workers或Pages上传cf部署
 
 创建kv空间名字随便
 kv环境变量名
